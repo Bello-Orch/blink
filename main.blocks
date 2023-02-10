@@ -1,1 +1,31 @@
-<xml xmlns="https://developers.google.com/blockly/xml"></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="XUr#Rg6*`4U|:q*s=YtZ" x="0" y="0"><statement name="HANDLER"><block type="controls_repeat_ext" id="J*}Rs.QC:Liy@;H-~d^z"><value name="TIMES"><shadow type="math_whole_number" id="f9c6c$q8,Q=c}5u](Fq/"><field name="NUM">3</field></shadow></value><statement name="DO"><block type="device_show_leds" id=",ovg5:@};.#|,,gU#goe"><field name="LEDS">`
+        . . . . . 
+        . . # . . 
+        . # # # . 
+        . . # . . 
+        . # . # .
+        `</field><next><block type="device_clear_display" id="]ui;40fOCDzuP;r62oyg"><next><block type="device_show_leds" id="W9.1XI1n%.sOH~2A[Dc="><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        . . # . . 
+        . # . # . 
+        . . . . .
+        `</field><next><block type="device_clear_display" id="W;rsPLX(-j,o%c:pF{(i"><next><block type="device_show_leds" id="l`ql34/#n*]5a8;XJve;"><field name="LEDS">`
+        . # . # . 
+        . . # . . 
+        . # # # . 
+        . . # . . 
+        . . . . .
+        `</field><next><block type="device_clear_display" id="Yir^p|%wUcxsk/,HnPWj"><next><block type="device_show_leds" id="{dav2h0IHt}i`fg)5oPL"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        . . # . . 
+        . # . # . 
+        . . . . .
+        `</field><next><block type="device_clear_display" id="N]bQ^z#n$6|Llf`Ix[!0"><next><block type="device_show_leds" id="^WhYCgVE}%f{*@/XUpcg"><field name="LEDS">`
+        . . . . . 
+        . . # . . 
+        . # # # . 
+        . . # . . 
+        . # . # .
+        `</field><next><block type="device_clear_display" id="Hh;DUBvVXIeOSar$Isy2"><next><block type="device_print_message" id=".uC^lS..jb:aPc~1R=-g"><value name="text"><shadow type="text" id="Tqc(q.3p^yQJ_g7%X[r="><field name="TEXT">LET'S GO EAGLES!</field></shadow></value><next><block type="device_pause" id="vMOilI(a,rffh[4p;)Sv"><value name="pause"><shadow type="timePicker" id="29GPHm$z3V9bi}EpXrB)"><field name="ms">500</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></statement></block></xml>

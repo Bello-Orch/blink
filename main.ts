@@ -1,14 +1,44 @@
-for (let index = 0; index < 4; index++) {
+for (let index = 0; index < 3; index++) {
     basic.showLeds(`
-        . # . # .
-        . # . # .
         . . . . .
-        # . . . #
-        # # # # #
+        . . # . .
+        . # # # .
+        . . # . .
+        . # . # .
         `)
     basic.clearScreen()
-    basic.pause(200)
+    basic.showLeds(`
+        . . # . .
+        . # # # .
+        . . # . .
+        . # . # .
+        . . . . .
+        `)
+    basic.clearScreen()
+    basic.showLeds(`
+        . # . # .
+        . . # . .
+        . # # # .
+        . . # . .
+        . . . . .
+        `)
+    basic.clearScreen()
+    basic.showLeds(`
+        . . # . .
+        . # # # .
+        . . # . .
+        . # . # .
+        . . . . .
+        `)
+    basic.clearScreen()
+    basic.showLeds(`
+        . . . . .
+        . . # . .
+        . # # # .
+        . . # . .
+        . # . # .
+        `)
+    basic.clearScreen()
+    basic.showString("LET'S GO EAGLES!")
+    basic.pause(500)
 }
-basic.forever(function () {
-	
-})
